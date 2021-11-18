@@ -1,1 +1,5 @@
 # Packsaddle Finance Contracts
+
+Packsaddle Finance is a representative, reserve currency protocol based on the Packsaddle Reserve Token (PRT). Each PRT is backed by assets held within the Treasury thereby providing a token representation of actual, redeemable value for each PRT in circulation. The price of PRT is backed, but not pegged to this intrinsic backing value. Circulating supply is variable based on the autonomous actions of the protocol, specifically the Treasury. The Treasury governs the financial system by way of owning trading liquidity, issuing bonds, facilitating lending / borrowing, and encouraging protocol utilization with reward rates akin to a government central bank or monetary authority with the primary objective of growing the backed value of PRT. Reward rates are a function of the Treasury performance, and rewards are paid in PRT. Packsaddle Finance is in development to be deployed on Avalanche, an open and programmable smart contracts platform for decentralized applications.
+
+Documentation is provided at: https://packsaddlefinance.gitbook.io/packsaddle-finance/basics/introduction
